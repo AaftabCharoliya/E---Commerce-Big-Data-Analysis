@@ -1,0 +1,57 @@
+# 🛒 E-Commerce Performance Overview Dashboard
+
+An interactive and visual **Power BI Dashboard** that provides deep insights into sales, profitability, category performance, and global distribution of an e-commerce business.
+
+---
+
+## 📊 Key Highlights & Metrics (KPIs)
+
+The dashboard provides top-level KPI cards to track business growth at a glance:
+
+* **Total Orders:** 10.00K
+* **Total Revenue:** $5.28M
+* **Total Cost:** $3.85M
+* **Total Profit:** $1.44M
+* **Avg Profit Margin:** 23.65%
+
+---
+
+## 📈 Visualizations Breakdown
+
+1. **Revenue & Profit by Category (Bar Chart)**
+   * Compares total revenue (blue) and profit (green) across key categories:
+     * *Electronics* (Highest revenue & profit contributor)
+     * *Home & Kitchen*
+     * *Clothing*
+     * *Books & Media*
+     * *Beauty & Health*
+
+2. **Global Sales Performance (Map Visual)**
+   * Displays the geographical spread of sales across regions including North America, Europe, Asia, Middle East, and Africa.
+
+3. **Interactive Slicers / Filters**
+   * **Region:** Asia, Europe, Middle East, North America
+   * **Category:** Beauty & Health, Books & Media, Clothing, Electronics, Home & Kitchen
+   * **Year:** 2021, 2022, 2023, 2024
+
+---
+
+## 🎨 Theme & Design
+
+* **Color Palette:** Dark Navy Blue (`#1F2937`) background with high-contrast Cyan and Green indicators for maximum readability.
+* **Layout:** Clean card-based modern UI designed for executive reporting.
+
+---
+
+## 🛠️ Tools & Technologies Used
+
+* **Power BI Desktop** - Dashboard creation, Data Transformation (Power Query), and DAX measures.
+* **Data Source** - E-Commerce Dataset (CSV/Excel).
+
+---
+
+## 🚀 How to View the Project
+
+1. Download the `.pbix` file from this repository.
+2. Open it in **Power BI Desktop**.
+3. Use the slicers on the bottom right to filter data dynamically.
